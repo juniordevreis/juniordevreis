@@ -6,9 +6,9 @@ public class Primeiraclassjava {
           public static void main(String[] args) {
         	  
         	 /*escreve texto noooooo console*/ 
-			System.out.println("meuxxxx prbgimbbbgbgdfdeiro progama em java");
+			System.out.println("meufffdgddxxxx prbgimbbbgbgdfdeiro progama em java");
 			System.out.println("java é bg a bgobjetos");
 			System.out.println("java é orientado a objets");
           }
 }
-/* cxx x x x x cfdvfdv*/
+/* cxx x x x x cfdddddvfdv*/
